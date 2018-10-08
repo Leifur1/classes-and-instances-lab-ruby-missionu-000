@@ -1,6 +1,5 @@
 class Dog
-  def fido
-  end
+  self.fido
 
   def snoopy
   end
