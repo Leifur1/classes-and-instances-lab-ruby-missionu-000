@@ -1,6 +1,6 @@
 class Dog
 
-  
+
 
   def snoopy
     puts "snoopy"
