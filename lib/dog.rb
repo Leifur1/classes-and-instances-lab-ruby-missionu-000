@@ -1,7 +1,7 @@
 class Dog
   def Dog.fido
   end
-  
+
   def snoopy
   end
 
