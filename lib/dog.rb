@@ -7,5 +7,5 @@ class Dog
 
   def lassie
   end
-  
+
 end
