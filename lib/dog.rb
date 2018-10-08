@@ -1,7 +1,6 @@
 class Dog
 
-  fido = Dog.new
-  fido
+  
 
   def snoopy
     puts "snoopy"
@@ -12,3 +11,5 @@ class Dog
   end
 
 end
+fido = Dog.new
+fido 
