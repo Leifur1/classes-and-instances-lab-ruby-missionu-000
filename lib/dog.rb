@@ -1,7 +1,7 @@
 class Dog
-  def fido
-    puts "fido"
-  end
+
+  fido = Dog.new
+  fido
 
   def snoopy
     puts "snoopy"
